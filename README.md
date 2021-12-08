@@ -2,8 +2,9 @@
 WinWordListPass es un ejecutable diseñado y </br>
 programado en C++ con su funcion es crear </br>
 diccionarios para fuerza bruta, funcional para </br>
-Windows y Linux
+Windows y Linux </br>
 
+![Tested](https://img.shields.io/badge/Tested-Windows%20%7C%20Linux%20%26%20Termux-blue)
 # Version 1.0
 WinWordListPass como esta echo en C++ </br>
 se me dificultaron ciertas cosas, por eso </br>
