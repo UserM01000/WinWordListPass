@@ -13,6 +13,7 @@ desean colaborar por eso el codigo es </br>
 100% libre :D, proximamente traere </br> 
 actualizaciones, esperenlaaaas!! ;D
 
+
 # Instalacion Linux
 
 * `git clone https://github.com/UserM01000/WinWordListPass`
@@ -35,5 +36,8 @@ para todos ;D
 # Contact me
 ### Si tienes dudas, criticas o errores hazmelo saber </br>
 ## con gusto te respondo :D </br>
+
+# Actualizacion en camino 
+Mas variedad en la creacion del diccionario 
 
 [![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/HackForAll1)
