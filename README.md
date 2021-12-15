@@ -36,8 +36,7 @@ para todos ;D
 # Contact me
 ### Si tienes dudas, criticas o errores hazmelo saber </br>
 ## con gusto te respondo :D </br>
+[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/HackForAll1)
 
 # Actualizacion en camino 
 Mas variedad en la creacion del diccionario 
-
-[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/HackForAll1)
